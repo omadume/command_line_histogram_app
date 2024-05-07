@@ -6,8 +6,14 @@ Example usecase:
 $ python task.py -n 10
 
 The ouput of the command would look something like this:
+```
 ***
 *
 ***
 *
 **
+```
+
+To run the test file, use:
+
+$ python -m unittest test_task.py
