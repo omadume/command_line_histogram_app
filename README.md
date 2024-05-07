@@ -3,7 +3,7 @@ A simple command line app for generating a histogram. Created using Python 3.11.
 
 Example usecase:
 
-$ python task.py -n 10
+`python task.py -n 10`
 
 The ouput of the command would look something like this:
 ```
@@ -16,4 +16,4 @@ The ouput of the command would look something like this:
 
 To run the test file, use:
 
-$ python -m unittest test_task.py
+`python -m unittest test_task.py`
